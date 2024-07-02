@@ -1,1 +1,1 @@
-# cowpro
+# Correlation-weighted Prototype Aggregation
