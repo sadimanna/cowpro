@@ -1,4 +1,4 @@
-# TITLE
+# Correlation Weighted Prototype-based Self-Supervised One-Shot Segmentation of Medical Images
 
 Forked from [Self-supervision with Superpixels: Training Few-shot Medical Image Segmentation without Annotation](https://arxiv.org/abs/2007.09886v2)
 
